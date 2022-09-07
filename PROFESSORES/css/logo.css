@@ -1,0 +1,9 @@
+.container img {
+    max-width: 5rem;
+    margin: 0.5em;
+}
+
+@font-face {
+    font-family: Press Start 2P;
+    src: url(https://fonts.google.com/specimen/Press+Start+2P?query=Press+Start+2P)
+}

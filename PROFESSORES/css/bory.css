@@ -1,0 +1,9 @@
+html { background-color: #ffffff;
+} 
+
+body {
+    min-height: 100vh;
+    max-width: 960px;
+    background-color: #22014d; 
+    margin: 0 auto;
+}
